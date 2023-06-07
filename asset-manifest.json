@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ReactJS_AnimeShop/static/css/main.64cae022.css",
+    "main.js": "/ReactJS_AnimeShop/static/js/main.60e89da3.js",
+    "static/js/787.c0fd70d5.chunk.js": "/ReactJS_AnimeShop/static/js/787.c0fd70d5.chunk.js",
+    "static/media/carousel3.jpg": "/ReactJS_AnimeShop/static/media/carousel3.c7e6d17bcdc935094cfe.jpg",
+    "static/media/carousel2.jpg": "/ReactJS_AnimeShop/static/media/carousel2.1a401400f399d2663175.jpg",
+    "static/media/carousel1.jpg": "/ReactJS_AnimeShop/static/media/carousel1.cb44bba42e64fcc16a9e.jpg",
+    "static/media/Jujutsu_kaisen.jpg": "/ReactJS_AnimeShop/static/media/Jujutsu_kaisen.db6c36fe0952504df830.jpg",
+    "static/media/Bleach.jpg": "/ReactJS_AnimeShop/static/media/Bleach.7986f33700b92eb15bf6.jpg",
+    "static/media/one-piece.jpg": "/ReactJS_AnimeShop/static/media/one-piece.5254f0b820ec6349f43a.jpg",
+    "static/media/demon-slayer.jpg": "/ReactJS_AnimeShop/static/media/demon-slayer.7f5e982c914549844b35.jpg",
+    "index.html": "/ReactJS_AnimeShop/index.html",
+    "main.64cae022.css.map": "/ReactJS_AnimeShop/static/css/main.64cae022.css.map",
+    "main.60e89da3.js.map": "/ReactJS_AnimeShop/static/js/main.60e89da3.js.map",
+    "787.c0fd70d5.chunk.js.map": "/ReactJS_AnimeShop/static/js/787.c0fd70d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64cae022.css",
+    "static/js/main.60e89da3.js"
+  ]
+}
